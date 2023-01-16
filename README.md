@@ -7,3 +7,6 @@
 ### Contacts:
 [<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" />](https://www.kaggle.com/parcurcik)
 [<img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=Telegram&logoColor=white" />](https://t.me/parcurcik)
+
+### Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parcurcik)](https://github.com/anuraghazra/github-readme-stats)
